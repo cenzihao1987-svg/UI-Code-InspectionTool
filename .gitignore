@@ -49,3 +49,7 @@ server/package-lock.json
 *.tmp
 *.temp
 .backups/
+
+# Sensitive files
+test-figma-token.html
+token-helper.html
